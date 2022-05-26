@@ -1,89 +1,5 @@
 Keyestudio 37 in 1 Sensor Kit upgraded v3.0
 
-![](media/09889b8420101c5b69bccbe79338d251.jpeg)
-
-**Content**
-
-[**1. Introduction 2**](#_Toc25605)
-
-[**2. Component List 3**](#_Toc13904)
-
-[**3. Project 8**](#_Toc10267)
-
-[**Project 1: White LED 8**](#project-1-white-led)
-
-[**Project 2: RGB LED 10**](#_Toc18282)
-
-[**Project 3: Traffic Light 12**](#_Toc27608)
-
-[**Project 4: Buzzer Beeping 14**](#_Toc5791)
-
-[**Project 5: Passive Buzzer 16**](#_Toc12998)
-
-[**Project 6: Motor Module 18**](#_Toc6863)
-
-[**Project 7: Digital Push Button 20**](#_Toc14189)
-
-[**Project 8: Collision Flash 22**](#_Toc1239)
-
-[**Project 9: Line Tracking 25**](#_Toc3711)
-
-[**Project 10: Infrared Obstacle Avoidance 27**](#_Toc18626)
-
-[**Project 11: Photo Interrupter 30**](#_Toc19829)
-
-[**Project 12: Hall Magnetic 32**](#_Toc14685)
-
-[**Project 13: Knock Sensor 35**](#project-13-knock-sensor)
-
-[**Project 14: Digital Tilt Sensor 36**](#_Toc4445)
-
-[**Project 15: Capacitive Touch 39**](#_Toc9903)
-
-[**Project 16: Flame Alarm 41**](#_Toc24262)
-
-[**Project 17: Reed Switch 43**](#_Toc10257)
-
-[**Project 18: PIR Motion Sensing 46**](#project-18-pir-motion-sensing)
-
-[**Project 19: Analog Temperature 49**](#_Toc12230)
-
-[**Project 20: Analog Rotation 52**](#_Toc17631)
-
-[**Project 21: Photocell 54**](#_Toc30437)
-
-[**Project 22: Analog Sound 56**](#_Toc10966)
-
-[**Project 23: Water Level 57**](#_Toc5927)
-
-[**Project 24: Soil Moisture 60**](#project-24-soil-moisture)
-
-[**Project 25: Steam Moisture 63**](#_Toc28595)
-
-[**Project 26: Analog Ceramic Vibration 65**](#_Toc17711)
-
-[**Project 27: Voltage Detection 68**](#_Toc11536)
-
-[**Project 28: Digital IR Receiver 72**](#project-28-digital-ir-receiver)
-
-[**Project 29: Digital IR Transmitter 74**](#_Toc30169)
-
-[**Project 30: Pulse Rate Monitor 78**](#project-30-pulse-rate-monitor)
-
-[**Project 31: Joystick 81**](#project-31-joystick)
-
-[**Project 32: Rotary Encoder 86**](#project-32-rotary-encoder)
-
-[**Project 33: Single Relay 89**](#project-33-single-relay)
-
-[**Project 34: Linear Temperature 92**](#project-34-linear-temperature)
-
-[**Project 35: Temperature and Humidity Display 94**](#_Toc28377)
-
-[**Project 36: Ultrasonic Ranger 98**](#project-36-ultrasonic-ranger)
-
-[**Project 37: 4-digit LED Display 102**](#_Toc11753)
-
 # Introduction
 
 This is an era of artificial intelligence. Artificial intelligence is widely
@@ -106,44 +22,44 @@ the change of edition.
 
 # Component List
 
-| White Led                                                    | ![](media/3fb8ca95979cb8155eed21c85c5849d9.png)       |
-|--------------------------------------------------------------|-------------------------------------------------------|
-| Traffic Light                                                | ![](media/faed1436ba564179dbc5ea9cece963a6.png)       |
-|  RGB LED                                                     |  ![](media/6880177c0cc9567d7a7c0ec75dd43e05.png)      |
-| 4-digit LED digital tube<https://www.baidu.com/javascript:;> | ![](media/60e010cc2db1aaafc10adfd030d0dc89.jpeg)      |
-| Active Buzzer<https://www.baidu.com/javascript:;>            | ![](media/c1bed936993e7356c6d9c1849406188d.png)       |
-| Passive Buzzer                                               | ![](media/4d28d48abed337f2c1ce5555bf1835ea.png)       |
-| Motor Module                                                 | ![](media/22fa87f0ef71fa25a91b885fd9b8f103.png)       |
-| Button Module                                                | ![](media/faee0ea6323f384e899e648fb1ee26d8.png)       |
-| Capacitive Touch                                             | **![](media/03d95d386bab3c7e0faffad0c65f52e4.jpeg)**  |
-| Knock Sensor                                                 | ![](media/abac15314c3b66b2c880476ff337cca2.png)       |
-| Digital Tilt Sensor                                          |  ![](media/547f3808c438b7276deda14027c88569.png)      |
-| Photo Interrupter                                            | ![](media/4868bc57e85d9db0246cb320bd80d7ab.png)       |
-| Reed Switch                                                  |  ![](media/ba9c3d340037188a66504526a606bb81.png)      |
-| Hall Sensor                                                  | ![](media/f63f4bab5eb0a610eb144f3c8010c7eb.png)       |
-| Collision Sensor                                             | ![](media/ae063ee5eaba1b4c1b73599a800824d9.png)       |
-| Line Tracking Sensor                                         | ![](media/054baaa2d1f0788165ff7483a6bf314d.png)       |
-|  Infrared Obstacle Avoidance                                 | ![](media/0f3461602991dde26f4f92298a0e8bca.png)       |
-| Photocell                                                    | ![](media/cc53792e28da06b8ef92107227fca879.png)       |
-| Analog Temperature                                           | ![](media/a4c25891a05b793ca06cf9c6e4252557.png)       |
-| Analog Rotation                                              | ![](media/9cf285e802bf6b43b76a8ab528cf2fb6.png)       |
-| Analog Sound                                                 | ![](media/afad6ba923d8a141d480bd9818f2c7ca.png)       |
-| Flame Alarm                                                  |  ![](media/4bc07221aab0e4f7fe7c9f79a5a1244b.png)      |
-| Water Level                                                  |  ![](media/dc39a6498a6b1e17add8836eda29c64e.png)      |
-| Soil Moisture                                                | ![](media/a655e9c391a4cafc728c747a17a250ab.png)       |
-| Steam Moisture                                               | ![](media/02b19670c683f9dbca01342d755fbd1b.png)       |
-| Analog Ceramic Vibration                                     | ![](media/370cecabeea165b0bd9fe17e39bac3a4.png)       |
-| Voltage Detection                                            | ![](media/63e9b57fd5cfe1717a3369540effe6ab.png)       |
-| Digital IR Receiver                                          | ![](media/dabc7c28c2f6694d9fddccae37d107fd.png)       |
-| Digital IR transmitter                                       | ![](media/315d12803e38eca207e10392ab993d09.png)       |
-| Joystick                                                     | ![](media/c85616ad5d84106376aeae8016ebafc9.png)       |
-|  Single Relay                                                | ![](media/d92cc7b0d7790c3f34bb05939b4d1cdd.png)       |
-| Rotary Encoder                                               | ![](media/7ddc78775509ce88d6f51334d0ba0880.jpeg)      |
-| Pulse Rate Monitor                                           | ![](media/a19a0e30e543b2a49cf0535721893150.png)       |
-| Linear Temperature                                           | ![](media/5c4dae8f9556b0307c104f4df48578be.png)       |
-| Temperature and Humidity Display                             | ![](media/56dccb4d4f43465c54af8d1934b85848.png)       |
-| Ultrasound Sensor                                            | ![](media/beaa63d52a3346603685f0cb461b2cb5.png)       |
-| PIR Motion Sensor                                            | ![](media/1e721453ec013fb69ed11e3140e7c82b.png)       |
+| White Led                                                    | ![](media/3fb8ca95979cb8155eed21c85c5849d9.png)      |
+|--------------------------------------------------------------|------------------------------------------------------|
+| Traffic Light                                                | ![](media/faed1436ba564179dbc5ea9cece963a6.png)      |
+| RGB LED                                                      | ![](media/6880177c0cc9567d7a7c0ec75dd43e05.png)      |
+| 4-digit LED digital tube<https://www.baidu.com/javascript:;> | ![](media/60e010cc2db1aaafc10adfd030d0dc89.jpeg)     |
+| Active Buzzer<https://www.baidu.com/javascript:;>            | ![](media/c1bed936993e7356c6d9c1849406188d.png)      |
+| Passive Buzzer                                               | ![](media/4d28d48abed337f2c1ce5555bf1835ea.png)      |
+| Motor Module                                                 | ![](media/22fa87f0ef71fa25a91b885fd9b8f103.png)      |
+| Button Module                                                | ![](media/faee0ea6323f384e899e648fb1ee26d8.png)      |
+| Capacitive Touch                                             | **![](media/03d95d386bab3c7e0faffad0c65f52e4.jpeg)** |
+| Knock Sensor                                                 | ![](media/abac15314c3b66b2c880476ff337cca2.png)      |
+| Digital Tilt Sensor                                          | ![](media/547f3808c438b7276deda14027c88569.png)      |
+| Photo Interrupter                                            | ![](media/4868bc57e85d9db0246cb320bd80d7ab.png)      |
+| Reed Switch                                                  | ![](media/ba9c3d340037188a66504526a606bb81.png)      |
+| Hall Sensor                                                  | ![](media/f63f4bab5eb0a610eb144f3c8010c7eb.png)      |
+| Collision Sensor                                             | ![](media/ae063ee5eaba1b4c1b73599a800824d9.png)      |
+| Line Tracking Sensor                                         | ![](media/054baaa2d1f0788165ff7483a6bf314d.png)      |
+| Infrared Obstacle Avoidance                                  | ![](media/0f3461602991dde26f4f92298a0e8bca.png)      |
+| Photocell                                                    | ![](media/cc53792e28da06b8ef92107227fca879.png)      |
+| Analog Temperature                                           | ![](media/a4c25891a05b793ca06cf9c6e4252557.png)      |
+| Analog Rotation                                              | ![](media/9cf285e802bf6b43b76a8ab528cf2fb6.png)      |
+| Analog Sound                                                 | ![](media/afad6ba923d8a141d480bd9818f2c7ca.png)      |
+| Flame Alarm                                                  | ![](media/4bc07221aab0e4f7fe7c9f79a5a1244b.png)      |
+| Water Level                                                  | ![](media/dc39a6498a6b1e17add8836eda29c64e.png)      |
+| Soil Moisture                                                | ![](media/a655e9c391a4cafc728c747a17a250ab.png)      |
+| Steam Moisture                                               | ![](media/02b19670c683f9dbca01342d755fbd1b.png)      |
+| Analog Ceramic Vibration                                     | ![](media/370cecabeea165b0bd9fe17e39bac3a4.png)      |
+| Voltage Detection                                            | ![](media/63e9b57fd5cfe1717a3369540effe6ab.png)      |
+| Digital IR Receiver                                          | ![](media/dabc7c28c2f6694d9fddccae37d107fd.png)      |
+| Digital IR transmitter                                       | ![](media/315d12803e38eca207e10392ab993d09.png)      |
+| Joystick                                                     | ![](media/c85616ad5d84106376aeae8016ebafc9.png)      |
+| Single Relay                                                 | ![](media/d92cc7b0d7790c3f34bb05939b4d1cdd.png)      |
+| Rotary Encoder                                               | ![](media/7ddc78775509ce88d6f51334d0ba0880.jpeg)     |
+| Pulse Rate Monitor                                           | ![](media/a19a0e30e543b2a49cf0535721893150.png)      |
+| Linear Temperature                                           | ![](media/5c4dae8f9556b0307c104f4df48578be.png)      |
+| Temperature and Humidity Display                             | ![](media/56dccb4d4f43465c54af8d1934b85848.png)      |
+| Ultrasound Sensor                                            | ![](media/beaa63d52a3346603685f0cb461b2cb5.png)      |
+| PIR Motion Sensor                                            | ![](media/1e721453ec013fb69ed11e3140e7c82b.png)      |
 
 # Project
 
@@ -151,7 +67,7 @@ the change of edition.
 
 Description:  
 This white LED light module is ideal for Arduino starters. It can be easily
-connected to IO/Sensor shield. It enables interaction with light-related works. 
+connected to IO/Sensor shield. It enables interaction with light-related works.
 
 Note: You can choose other LED modules to emit different color like yellow, red,
 green and blue.
@@ -175,7 +91,7 @@ White LED module \*1
 USB Cable\*1  
 Jumper wire\*3  
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 ![](media/a2a9fa4c8bce630121df4a5bd4dca567.png)
 
@@ -212,8 +128,8 @@ emit the white light.
 
 **Project 2: RGB LED**
 
-**  
-**![](media/b6953edae9daa6d1bafe943b227695bb.png)
+\*\*  
+\*\*![](media/b6953edae9daa6d1bafe943b227695bb.png)
 
 **Description：**  
 This is a full-color LED module, which contains 3 basic colors－red, green and
@@ -243,7 +159,7 @@ USB Cable\*1
 Jumper Wire\*4
 
 Connect the V pin of module to 5V port of UNO board, connect the B pin to
-Digital 9, R pin to Digital 10, G pin to Digital 11 .  
+Digital 9, R pin to Digital 10, G pin to Digital 11 .
 
 [![](media/905a43c9f5cf1198f2a066ed3bece69b.jpeg)](https://wiki.keyestudio.com/File:0032.jpg)
 
@@ -329,7 +245,7 @@ USB Cable\*1
 Jumper Wire\*4
 
 Connect the R pin of module to Digital 5 of UNO board, connect the Y pin to
-Digital 4, G pin to Digital 3, GND pin to ground port.  
+Digital 4, G pin to Digital 3, GND pin to ground port.
 
 [![](media/bd62d6d69655705f7f5826f03d79a4fc.png)](https://wiki.keyestudio.com/File:KS0349_4-2.png)
 
@@ -425,7 +341,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/81d9ef9f19ccd7b50e0e51416da1795a.png)](https://wiki.keyestudio.com/File:Ks0018-.png)
 
@@ -490,7 +406,7 @@ First, you need to prepare the following parts before connection:
 UNO Board\*1,Passive buzzer module \*1,USB Cable\*1,Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/39f6fb46063aae8b0beb318d00ad15c3.png)](https://wiki.keyestudio.com/File:0019.png)
 
@@ -669,7 +585,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/c3a1441e5a71ba4c07cdda5daf9fc933.png)](https://wiki.keyestudio.com/File:Ks0029.png)
 
@@ -761,7 +677,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/1e22ca975d2608bbcb26920bf52d6cea.png)](https://wiki.keyestudio.com/File:Ks0021.png)
 
@@ -934,7 +850,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the Out pin of module to Digital 3 of UNO board, connect the V+ pin to
-5V port, GND pin to GND port.  
+5V port, GND pin to GND port.
 
 [![](media/e4f45845a82db6cbc28e3f031e4ef932.png)](https://wiki.keyestudio.com/File:0051.png)
 
@@ -1015,7 +931,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/dd6bba7c462dad728a1790057e5f1370.png)](https://wiki.keyestudio.com/File:Ks0009.png)
 
@@ -1108,7 +1024,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/b4b383660c1baca17d3e8d39b04b888b.png)](https://wiki.keyestudio.com/File:Ks0020.png)
 
@@ -1181,7 +1097,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/a3858c8ad07b534c043935d614b05441.png)](https://wiki.keyestudio.com/File:Ks0024-.png)
 
@@ -1338,7 +1254,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 2 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/2b05bbde37f80cea57a63b6ab05d3eb7.png)](https://wiki.keyestudio.com/File:Ks0031-1.png)
 
@@ -1526,7 +1442,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/e8bc2ce8cf8ef36bd1217ef9b3f5fd6d.png)](https://wiki.keyestudio.com/File:Ks0038-1.png)
 
@@ -1634,7 +1550,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 ![](media/354797d7e8aa95328d30200269e7dd3e.png)
 
@@ -1681,7 +1597,6 @@ detecting the movement, D13 indicator on UNO board will be off, and "No one!" is
 displayed on the serial monitor.  
 [![](media/d1a4f209db3613bf32700ba2b017d94d.png)](https://wiki.keyestudio.com/File:KS0349_18-2.png)
 
-
 [![](media/0991723e3578b3bb8f86fe08bd7fc167.png)](https://wiki.keyestudio.com/File:KS0349_18-3.png)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
@@ -1719,7 +1634,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Analog A0 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/91da0bc3bde66a5e77b375c420977ac9.png)](https://wiki.keyestudio.com/File:Ks0033-.png)
 
@@ -1780,7 +1695,6 @@ Done wiring and powered up, upload well the code, then open the serial monitor,
 you will see the current temperature value. Shown below.  
 [![](media/43d63ecce5371a0542a04cb6c17a4d5a.png)](https://wiki.keyestudio.com/File:KS0349_19-2.png)
 
-
 ![](media/59735711e53a0cb146e9ba579cc8678a.png)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
@@ -1835,7 +1749,7 @@ delay(100);
 
 }
 
-Example Result:  
+Example Result:
 
 [![](media/5a4a17b861b06d6985a76b008bef9f1e.png)](https://wiki.keyestudio.com/File:KS0349_20-2.png)
 
@@ -2067,14 +1981,14 @@ delay(100);
 
 }
 
-Example Result:  
+Example Result:
 
 [![](media/4231b8baae6dadf113779726a5d32724.png)](https://wiki.keyestudio.com/File:KS0349_23-3.png)
 
 After the above steps are done, let’s do a test on lower water level and check
 what happens ? upload well the code to UNO board, then open the serial monitor
 and set the baud rate as 9600. When place the sensor into the water at different
-level, you will see the value change correspondingly.  
+level, you will see the value change correspondingly.
 
 ![](media/43cb71d47709c145fb0c69e1e5fdf858.png)  
 Furthermore, you can set an alarm value and connect a buzzer to make an alarm.  
@@ -2213,7 +2127,7 @@ USB Cable\*1
 Jumper wire\*3
 
 Connect the S pin of module to Analog A0 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/6aa2109d4a52b3899d74f47a7d5c6362.png)](https://wiki.keyestudio.com/File:Project_37-2.png)
 
@@ -2244,7 +2158,7 @@ delay(100);
 
 }
 
-Example Result:  
+Example Result:
 
 [![](media/2bb6c66f9876eb718a1e2cb41d3d814a.png)](https://wiki.keyestudio.com/File:KS0349_27-2.png)
 
@@ -2292,7 +2206,7 @@ USB Cable\*1
 Jumper wire\*3
 
 Connect the S pin of module to Analog A0 of UNO board, connect the negative pin
-to GND port, NC pin to 5V port.  
+to GND port, NC pin to 5V port.
 
 [![](media/82d17ff3d48533a8533f068614058923.png)](https://wiki.keyestudio.com/File:KS0349_28-2.png)
 
@@ -2323,7 +2237,7 @@ delay(100);
 
 }
 
-Example Result:  
+Example Result:
 
 [![](media/4278949b94c4b5451d332924277e76aa.png)](https://wiki.keyestudio.com/File:KS0349_28-3.png)
 
@@ -2373,7 +2287,7 @@ USB Cable\*1
 Jumper wire\*3
 
 Connect the S pin of module to Analog A0 of UNO board, connect the negative pin
-to GND port, NC pin to 5V port.  
+to GND port, NC pin to 5V port.
 
 [![](media/513f0c63509cb314953b463847563e21.png)](https://wiki.keyestudio.com/File:KS0349_29-2.png)
 
@@ -2443,7 +2357,7 @@ delay(1000); //delay 1 second
 
 }
 
-Example Result:  
+Example Result:
 
 ![](media/97b7dbe20e03d1bb43117652c523cc83.jpeg)  
 Done as the above wiring, compile and upload the code, powered-on, then open the
@@ -2484,7 +2398,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 11 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/a2ee2ad026326c0920e705db35a6714c.png)](https://wiki.keyestudio.com/File:Ks0026.png)
 
@@ -2529,7 +2443,7 @@ directory of Arduino IDE. Otherwise, compiling will fail.
 IR Remote Library Includes some sample codes for sending and receiving.  
 <https://github.com/shirriff/Arduino-IRremote>
 
-Example Result:  
+Example Result:
 
 [![](media/52e13b6d723b052bbdd34ad18ed65020.png)](https://wiki.keyestudio.com/File:KS0349_33-3.png)
 
@@ -2580,7 +2494,7 @@ USB Cable\*1
 Jumper Wire\*3
 
 Connect the S pin of module to Digital 3 of UNO board, connect the negative pin
-to GND port, positive pin to 5V port.  
+to GND port, positive pin to 5V port.
 
 [![](media/1d5a2fdd3831f1ee8a03661865e86f17.png)](https://wiki.keyestudio.com/File:Ks0027.png)
 
@@ -2818,7 +2732,6 @@ corresponding picture shown below.
 [![](media/fbab818f63ee26fd327fd095ae3e11a9.png)](https://wiki.keyestudio.com/File:35-1.png)
 [![](media/be18544cf32eec2a5e47d5e0a12b8541.png)](https://wiki.keyestudio.com/File:35-2.png)
 
-
 [![](media/cfc9ae079d714f58d575ac42b8f10a39.png)](https://wiki.keyestudio.com/File:35-3.png)
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
@@ -2900,13 +2813,13 @@ delay(100);
 
 }
 
-Example Result:  
+Example Result:
 
 [![](media/f18eb558c9175cdabdd77110abc52377.png)](https://wiki.keyestudio.com/File:36.png)
 
 Wiring well and uploading the code, open the serial monitor on Arduino software,
 and set the baud rate as 9600, you will see the value shown below.  
-![](media/9d51c9d825d467236bb354fbde4e5c1f.png)  
+![](media/9d51c9d825d467236bb354fbde4e5c1f.png)
 
 If you push the joystick downward/upward/leftward/rightward, the data will be
 changed. Shown as the figure below.
@@ -2947,7 +2860,6 @@ Weight: 7g
 
 Connection Diagram:  
 [![](media/9633fbedf996fd34f864c1c5277f23a6.png)](https://wiki.keyestudio.com/File:Ks0013-1.png)
-
 
 As seen in the diagram, we connect rotary encoder module and two LED modules to
 the breadboard and UNO board. This way use the rotary encoder module to control
@@ -3178,7 +3090,7 @@ Introduction:
 LM35 Linear Temperature Sensor is based on semiconductor LM35 temperature
 sensor. It can be used to detect ambient air temperature. This sensor offers a
 functional range among 0 degree Celsius to 100 degree Celsius. Sensitivity is
-10mV per degree Celsius. The output voltage is proportional to the temperature. 
+10mV per degree Celsius. The output voltage is proportional to the temperature.
 
 This sensor is commonly used as a temperature measurement sensor. It includes
 thermocouples, platinum resistance, thermal resistance and temperature
@@ -3381,7 +3293,7 @@ delay(1000);
 }
 
 Example Result:  
-Wire it up well and upload the above code to UNO board.  
+Wire it up well and upload the above code to UNO board.
 
 [![](media/6dfcc0bed298f6bc01e17d600699b70f.png)](https://wiki.keyestudio.com/File:Ks0349-40-2.png)
 
@@ -3498,7 +3410,7 @@ delay(50);
 
 }
 
-Example Result:  
+Example Result:
 
 [![](media/c3b41264dad45d9b39e114a4887ff5fa.png)](https://wiki.keyestudio.com/File:Ks0349-46-5.png)
 
@@ -3507,7 +3419,6 @@ place an object in front of the ultrasonic sensor (from near and far), it will
 detect the distance of object. Thus the value will be displayed on the monitor
 shown below.  
 [![](media/ea67573ba9cfdd7e6887282187954bbb.png)](https://wiki.keyestudio.com/File:Ks0349-46-6.png)
-
 
 ![](media/418bd791cfc9b3e5906e219f985e6081.png)
 
